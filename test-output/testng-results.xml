@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T10:38:41 CDT" name="Default suite" finished-at="2024-08-03T10:39:15 CDT" duration-ms="33911">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T10:38:41 CDT" name="Default test" finished-at="2024-08-03T10:39:15 CDT" duration-ms="33911">
+      <class name="LoginPageTest">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:41 CDT" name="readConfig" finished-at="2024-08-03T10:38:41 CDT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:41 CDT" name="init" finished-at="2024-08-03T10:38:47 CDT" duration-ms="5825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="loginTest()[pri:1, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:47 CDT" name="loginTest" finished-at="2024-08-03T10:38:55 CDT" duration-ms="8268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:55 CDT" name="tearDown" finished-at="2024-08-03T10:38:56 CDT" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:56 CDT" name="init" finished-at="2024-08-03T10:38:58 CDT" duration-ms="2458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="validateAlertMessages()[pri:2, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:58 CDT" name="validateAlertMessages" finished-at="2024-08-03T10:38:58 CDT" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAlertMessages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:58 CDT" name="tearDown" finished-at="2024-08-03T10:38:59 CDT" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:38:59 CDT" name="init" finished-at="2024-08-03T10:39:01 CDT" duration-ms="2088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="addCustomer()[pri:3, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:39:01 CDT" name="addCustomer" finished-at="2024-08-03T10:39:15 CDT" duration-ms="13602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginPageTest@f0c8a99]" started-at="2024-08-03T10:39:15 CDT" name="tearDown" finished-at="2024-08-03T10:39:15 CDT" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
