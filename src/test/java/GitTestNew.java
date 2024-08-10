@@ -11,6 +11,8 @@ public class GitTestNew {
 	
 	public void printMe3() {
 		System.out.println("git test 1");
+		System.out.println("git test2");
+		System.out.println("git tes3");
 	}
 	
 	public void printMe4() {
